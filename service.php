@@ -72,7 +72,7 @@
                 </div>
             </div>
 
-            <h1 class="text-white mb-4">Dave and Abe Service</h1>
+            <h1 class="text-white mb-4">Abe Service</h1>
             <h3 class="text-white mb-0">24 Hours 7 Days a Week</h3>
         </div>
         <div class="container position-relative wow fadeInUp" data-wow-delay="0.1s" style="margin-top: -6rem;">
