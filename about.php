@@ -38,14 +38,7 @@
             </nav>
         </div>
     </div>
-    <!-- Page Header End -->
-
-
-    <!-- Service Start -->
     
-    <!-- Service End -->
-
-
     <!-- About Start -->
     <div class="container-xxl py-5">
         <div class="container">
@@ -63,7 +56,7 @@
                         </div>
                         <div class="ms-3">
                             <p class="fs-5 fw-medium mb-2 text-white">Book Your Adventure</p>
-                            <h3 class="m-0 text-secondary">+255 772 816 595</h3>
+                            <h3 class="m-0 text-secondary">+255 718 216 408</h3>
                         </div>
                     </div>
                 </div>
@@ -156,42 +149,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/team-3.jpg" alt="">
-                        </div>
-                        <div class="team-text">
-                            <div class="bg-light">
-                                <h5 class="fw-bold mb-0">Full Name</h5>
-                                <small>Designation</small>
-                            </div>
-                            <div class="bg-primary">
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="team-item">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/team-4.jpg" alt="">
-                        </div>
-                        <div class="team-text">
-                            <div class="bg-light">
-                                <h5 class="fw-bold mb-0">Full Name</h5>
-                                <small>Designation</small>
-                            </div>
-                            <div class="bg-primary">
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
+               
             </div>
         </div>
     </div>

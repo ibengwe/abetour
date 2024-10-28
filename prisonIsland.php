@@ -37,16 +37,7 @@ include('topBarSpinner.php');
             </nav>
         </div>
     </div>
-    <!-- Page Header End -->
-
-    <!-- start of dolphin -->
-    <!-- Here's an explanation of the Jozani Forest in the same style as your dolphin tour description: -->
-
-<!-- start of Jozani Forest -->
-<!-- Here's an explanation of The Rock Restaurant in the same style: -->
-
-<!-- start of The Rock Restaurant -->
-<!-- start of Prison Island -->
+   
 <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container">
         <div class="row justify-content-center">
@@ -84,7 +75,6 @@ include('topBarSpinner.php');
                 </div>
                 <div class="text-center">
                     <p class="mb-4">
-                        <!-- <b>Experience</b>: Explore the rich history of Prison Island, meet the friendly Aldabra tortoises, and enjoy a relaxing day swimming, snorkeling, and sunbathing on its pristine beaches. -->
                     </p>
                     <a class="btn btn-primary rounded-pill py-3 px-5" href="booking.php">Book Your Tour Now</a>
                 </div>
@@ -92,7 +82,6 @@ include('topBarSpinner.php');
         </div>
     </div>
 </div>
-<!-- end of Prison Island -->
 
     <!-- Footer Start -->
     <?php

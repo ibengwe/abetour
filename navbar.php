@@ -33,7 +33,7 @@
             </div>
             <div class="ms-3">
                 <p class="mb-1 text-white">Service 24/7</p>
-                <h5 class="m-0 text-secondary">+255 772 816 595</h5>
+                <h5 class="m-0 text-secondary">+255 718 216 408</h5>
             </div>
         </div>
     </div>

@@ -4,8 +4,8 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Address</h4>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>paje, Unguja South District, Zanzibar</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+255 772 816 595</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>khalfankhamis81@gmail.com</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+255 718 216 408</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@abe-tour.com</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
@@ -50,7 +50,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">www.zanzibarguidedavidabe.com</a>, All Right Reserved.
+                        &copy; <a class="border-bottom" href="www.abe-tour.com">www.abe-tour.com</a>, All Right Reserved.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->

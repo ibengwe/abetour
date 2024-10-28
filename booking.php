@@ -8,11 +8,7 @@
 </head>
 
 <body>
-    <!-- Spinner Start -->
     
-    <!-- Topbar End -->
-
-
     <!-- Navbar Start -->
     <div class="container-fluid nav-bar bg-light">
     <?php

@@ -55,7 +55,7 @@ include('topBarSpinner.php');
                         </div>
                         <div class="ms-3">
                             <p class="fs-5 fw-medium mb-2 text-white">Book Your Adventure</p>
-                            <h3 class="m-0 text-secondary">+255 772 816 595</h3>
+                            <h3 class="m-0 text-secondary">+255 718 216 408</h3>
                         </div>
                     </div>
                 </div>
@@ -192,7 +192,7 @@ include('topBarSpinner.php');
 
 
     <!-- Testimonial Start -->
-    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <!-- <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="text-center">
                 <h6 class="text-secondary text-uppercase">Testimonial</h6>
@@ -214,21 +214,7 @@ include('topBarSpinner.php');
                     <h5 class="mb-1">Client Name</h5>
                     <p class="m-0">Profession</p>
                 </div>
-                <!-- <div class="testimonial-item text-center">
-                    <div class="testimonial-text bg-light text-center p-4 mb-4">
-                        <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
-                    </div>
-                    <img class="bg-light rounded-circle p-2 mx-auto mb-2" src="img/testimonial-2.jpg" style="width: 80px; height: 80px;">
-                    <div class="mb-2">
-                        <small class="fa fa-star text-secondary"></small>
-                        <small class="fa fa-star text-secondary"></small>
-                        <small class="fa fa-star text-secondary"></small>
-                        <small class="fa fa-star text-secondary"></small>
-                        <small class="fa fa-star text-secondary"></small>
-                    </div>
-                    <h5 class="mb-1">Client Name</h5>
-                    <p class="m-0">Profession</p>
-                </div> -->
+
                 <div class="testimonial-item text-center">
                     <div class="testimonial-text bg-light text-center p-4 mb-4">
                         <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
@@ -261,7 +247,7 @@ include('topBarSpinner.php');
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Testimonial End -->
 
 

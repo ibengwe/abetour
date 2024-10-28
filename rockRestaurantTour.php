@@ -38,13 +38,7 @@ include('topBarSpinner.php');
             </nav>
         </div>
     </div>
-    <!-- Page Header End -->
 
-    <!-- start of dolphin -->
-    <!-- Here's an explanation of the Jozani Forest in the same style as your dolphin tour description: -->
-
-<!-- start of Jozani Forest -->
-<!-- Here's an explanation of The Rock Restaurant in the same style: -->
 
 <!-- start of The Rock Restaurant -->
 <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">

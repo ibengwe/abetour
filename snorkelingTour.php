@@ -39,19 +39,7 @@ include('topBarSpinner.php');
             </nav>
         </div>
     </div>
-    <!-- Page Header End -->
-
-    <!-- start of dolphin -->
-    <!-- Here's an explanation of the Jozani Forest in the same style as your dolphin tour description: -->
-
-<!-- start of Jozani Forest -->
-<!-- Here's an explanation of The Rock Restaurant in the same style: -->
-
-<!-- start of The Rock Restaurant -->
-<!-- start of Prison Island -->
-<!-- start of Stone Town Tour -->
-<!-- start of Snorkeling Tour -->
-<!-- start of Snorkeling Tour -->
+   
 <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container">
         <div class="row justify-content-center">
@@ -97,16 +85,7 @@ include('topBarSpinner.php');
         </div>
     </div>
 </div>
-<!-- end of Snorkeling Tour -->
 
-<!-- end of Snorkeling Tour -->
-
-<!-- end of Stone Town Tour -->
-
-
-<!-- end of Prison Island -->
-
-<!-- end of The Rock Restaurant explanation -->
 
 This explanation highlights the unique charm and atmosphere of The Rock Restaurant, maintaining a similar style to the dolphin and forest tours.
 This explanation highlights the unique charm and atmosphere of The Rock Restaurant, maintaining a similar style to the dolphin and forest tours.
