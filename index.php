@@ -125,8 +125,8 @@ include('topBarSpinner.php');
                             </div>
                             <div class="bg-primary">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square mx-1" href="https://x.com/abetours/"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square mx-1" href="https://www.instagram.com/abe_tour?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -143,8 +143,8 @@ include('topBarSpinner.php');
                             </div>
                             <div class="bg-primary">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href="https://www.instagram.com/zanzibarguidedavidabe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square mx-1" href="https://x.com/abetours/"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square mx-1" href="https://www.instagram.com/abe_tour?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -161,8 +161,8 @@ include('topBarSpinner.php');
                             </div>
                             <div class="bg-primary">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square mx-1" href="https://x.com/abetours/"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square mx-1" href="https://www.instagram.com/abe_tour?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
@@ -179,8 +179,8 @@ include('topBarSpinner.php');
                             </div>
                             <div class="bg-primary">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-square mx-1" href="https://x.com/abetours/"><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square mx-1" href="https://www.instagram.com/abe_tour?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
