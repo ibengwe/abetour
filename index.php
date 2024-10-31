@@ -250,6 +250,8 @@ include('topBarSpinner.php');
     </div> -->
     <!-- Testimonial End -->
 
+    <div id="TA_selfserveprop473" class="TA_selfserveprop"><ul id="54wYLXa" class="TA_links gvsC8b6Kqm"><li id="kz5ialWau" class="OiFg0k"><a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g616020-d28986563-Reviews-Abe_Tour_And_Safaris-Paje_Zanzibar_Island_Zanzibar_Archipelago.html"><img src="https://www.tripadvisor.com/img/cdsi/img2/branding/v2/Tripadvisor_lockup_horizontal_secondary_registered-11900-2.svg" alt="TripAdvisor"/></a></li></ul></div><script async src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=473&amp;locationId=28986563&amp;lang=en_US&amp;rating=true&amp;nreviews=5&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=false&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
+
 
     <!-- Footer Start -->
    <?php
