@@ -63,6 +63,9 @@
             </div>
         </div>
     </div>
+    <div class="gtranslate_wrapper"></div>
+<script>window.gtranslateSettings = {"default_language":"en","languages":["en","fr","de","it","es","ru","sw"],"wrapper_selector":".gtranslate_wrapper","switcher_open_direction":"top"}</script>
+<script src="https://cdn.gtranslate.net/widgets/latest/dwf.js" defer></script>
 
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-0 back-to-top"><i class="bi bi-arrow-up"></i></a>
 

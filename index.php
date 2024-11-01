@@ -8,9 +8,6 @@
 </head>
 
 <body>
-<div class="gtranslate_wrapper"></div>
-<script>window.gtranslateSettings = {"default_language":"en","languages":["en","fr","de","it","es","ru","sw"],"wrapper_selector":".gtranslate_wrapper","switcher_horizontal_position":"right"}</script>
-<script src="https://cdn.gtranslate.net/widgets/latest/dwf.js" defer></script>
     <!-- Spinner Start -->
     <?php
 include('topBarSpinner.php');
